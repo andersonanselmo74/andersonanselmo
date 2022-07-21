@@ -13,5 +13,6 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    </div></br>
    
-   Estudante em Téc. Desenvolvimento de Sistemas Apaixonado por tecnologia.
+   Estudante em Téc. Desenvolvimento de Sistemas 2/3
+   Apaixonado por tecnologia.
 
