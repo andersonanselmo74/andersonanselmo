@@ -17,6 +17,5 @@
       <img align="center" alt="Reactive-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    </div></br>
    
-   Estudante em Téc. Desenvolvimento de Sistemas 2/3
-   Apaixonado por tecnologia.
+ 
 
